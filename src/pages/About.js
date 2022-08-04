@@ -1,6 +1,6 @@
 import React from 'react'
-import "../Css/tiny-slider.css";
-import "../Css/style.css";
+import "../css/tiny-slider.css";
+import "../css/style.css";
 
 const About = () => {
     

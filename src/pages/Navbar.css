@@ -30,7 +30,7 @@
   }
 
   .nav-item {
-    margin: 0rem 0;
+    margin: -0.2rem 0;
   }
 
   .header .navbar img {
@@ -39,14 +39,20 @@
 }
 @media (max-width: 795.98px) {
   .navbar .navbar-brand .l-dark {
-    display: none !important;
+    display: inline-block !important;
   }
   .navbar .navbar-brand .l-light {
-    display: inline-block !important;
+    display: none !important;
   }
 }
 .navbar {
-  color: #fff;
+  color: black;
+}
+.navbar .navbar-brand .l-dark {
+  display: inline-block;
+}
+.navbar .navbar-brand .l-light {
+  display: none;
 }
 .navbar.sticky {
   background: #ffffff;

@@ -1,24 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import "./Css/style.css";
-import "./Css/style.css.map";
-import "./Css/style.min.css";
-import "./Css/style.min.css.map";
+import "./css/style.css";
+import "./css/style.css.map";
+import "./css/style.min.css";
+import "./css/style.min.css.map";
 
-import "./Css/materialdesignicons.css.map";
-import "./Css/materialdesignicons.min.css";
-import "./Css/materialdesignicons.min.css.map";
+import "./css/materialdesignicons.css.map";
+import "./css/materialdesignicons.min.css";
+import "./css/materialdesignicons.min.css.map";
 
-import "./Css/testimonial.css";
-import "./Css/testimonial.min.css";
-import "./Css/testimonial.css.map";
-import "./Css/testimonial.min.css.map";
+import "./css/testimonial.css";
+import "./css/testimonial.min.css";
+import "./css/testimonial.css.map";
+import "./css/testimonial.min.css.map";
 
-import "./Css/tiny-slider.css";
+import "./css/tiny-slider.css";
 
-import "./Css/bootstrap.min.css";
-import "./Css/bootstrap.min.css.map";
+import "./css/bootstrap.min.css";
+import "./css/bootstrap.min.css.map";
 import "./js/tiny-slider.js";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
